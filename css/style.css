@@ -578,7 +578,7 @@ hr {
 
 
 .device {
-	background: url(./img/device_background.jpg) center/cover no-repeat;
+	background: url(/img/device_background.jpg) center/cover no-repeat;
 }
 
 
