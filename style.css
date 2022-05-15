@@ -69,7 +69,7 @@ hr {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	background: url(/img/about2.png)  center center / cover no-repeat;
+	background: url(/img/about2.png);
 	width: 100%;
 	height: 100vh;
 	position: relative;
